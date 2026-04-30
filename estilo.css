@@ -1,0 +1,32 @@
+.navbar {
+    background-color: #7BA05B;
+    font-size: 50px;
+    color: #E8C170;
+    display: flex;
+    padding: 1rem 5%;
+}
+
+.foto img {
+    height: 350px;
+    border-radius: 10px;
+}
+
+.primeiro-bloco {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.layout {
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+    min-height: 170vh;
+}
+
+.conteudo {
+    flex: 3;
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
